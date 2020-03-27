@@ -57,7 +57,7 @@
     "chai": "^4.1.2",
     "coveralls": "^3.0.0",
     "eslint": "^4.19.1",
-    "js-yaml": "^3.11.0",
+    "js-yaml": "^3.13.1",
     "mocha": "^5.1.1",
     "mocha-steps": "^1.1.0",
     "mockgoose": "^7.3.5",
