@@ -44,7 +44,7 @@
     "jstransformer-uglify-js": "^1.2.0",
     "ldapauth-fork": "^4.0.2",
     "moment": "^2.22.1",
-    "mongoose": "^5.0.15",
+    "mongoose": "^5.7.5",
     "password-sheriff": "^1.1.0",
     "pug": "^2.0.3",
     "slug": "^0.9.1",
