@@ -43,7 +43,7 @@
     "jsonwebtoken": "^8.2.1",
     "jstransformer-uglify-js": "^1.2.0",
     "ldapauth-fork": "^4.0.2",
-    "moment": "^2.22.1",
+    "moment": "^2.29.2",
     "mongoose": "^5.0.15",
     "password-sheriff": "^1.1.0",
     "pug": "^2.0.3",
